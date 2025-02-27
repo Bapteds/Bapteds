@@ -25,7 +25,3 @@
 
 <br><br>
 ---
-
-## 🚩 Stats GitHub
-**<div>[![GitHub Streak](https://streak-stats.demolab.com?user=Bapteds&theme=onedark&hide_border=true&locale=fr&date_format=j%20M%5B%20Y%5D&card_width=400)](https://git.io/streak-stats)
-![BaptEds's Card](https://github-readme-stats.vercel.app/api?username=Bapteds&theme=onedark&hide_border=true&locale=fr&card_width=400)</div>**
